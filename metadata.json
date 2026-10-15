@@ -1,0 +1,6 @@
+{
+  "name": "Questora",
+  "description": "The AI-guided learning operating system powered by Nova-Principia, Atlas Knowledge Intelligence, and Recall Adaptive Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
